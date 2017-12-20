@@ -1,0 +1,18 @@
+
+
+        body { 
+            background-image: url('https://previews.123rf.com/images/detshana/detshana1505/detshana150500008/40554411-marble-texture-white-marble-background-Stock-Photo.jpg');
+            background-size: cover;
+            font-family: Merriweather;
+            padding:10px;
+            
+            
+        }
+        
+        .card-header{
+            background-color: rgba(200, 200, 200, 0.5);
+            color: orange;
+        }
+        #logo{
+            width: 20%;
+        }

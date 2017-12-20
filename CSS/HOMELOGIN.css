@@ -1,0 +1,27 @@
+   /*This is the CSS specific to the home/login page specifically
+
+*/
+/* 
+    Created on : 21-Nov-2017, 20:53:04
+    Author     : adriancausby
+*/
+
+
+.col-lg-4{
+            background-color: rgba(255, 255, 255, 0.85);  
+            padding: 10px;
+            border-left: solid 3px;
+      
+        }
+            .col-lg-4{
+            background-color: rgba(100, 100, 100, 0.6);  
+            padding: 10px;
+        }
+            .col-lg-4 button {
+              
+            margin: 10px;
+            border: solid 1px;
+        }
+.intro {
+    background-color: rgba(100, 100, 100, 0.6);
+}

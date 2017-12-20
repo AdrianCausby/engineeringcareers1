@@ -1,0 +1,54 @@
+/*This is the CSS for the Dashboard template/general website Template
+
+*/
+/* 
+    Created on : 21-Nov-2017, 20:53:04
+    Author     : adriancausby
+*/
+
+        .col-lg-9{
+            background-color: rgba(255, 255, 255, 0.85);  
+            padding: 10px;
+            
+      
+        }
+            .col-lg-3{
+            background-color: rgba(100, 100, 100, 0.6);  
+            padding: 10px;
+            color:white;
+        }
+            .col-lg-3 button {
+              
+            margin: 10px;
+            border: solid 1px;
+            bacground-color: grey;
+        }
+        body { 
+            background-image: url('http://cambridgeholidaycottages.com/wp-content/uploads/2014/08/Wood-Background-Repeat.jpg');
+            background-size: cover;
+            font-family: Merriweather;
+        }
+        
+        .card-header{
+            background-color: rgba(200, 200, 200, 0.5);
+            color: orange;
+        }
+        .card-header p {
+            background-color: rgba(200, 200, 200, 0.5);
+            color: orange;
+        }
+        #logo{
+            width: 20%;
+        }
+
+
+        /*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 05-Dec-2017, 20:36:20
+    Author     : adriancausby
+*/
+

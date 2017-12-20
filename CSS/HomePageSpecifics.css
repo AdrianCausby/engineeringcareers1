@@ -1,0 +1,26 @@
+
+        .container{
+
+           
+            padding: 30px;
+            background-color: rgba(200,200,200,0.8);
+        }
+        #optiontitle{
+            background-color: rgba(200,200,200,0.6);
+            Padding:20px;
+            
+        }
+        
+        #potemp{
+            padding:40px;
+            text-align: Center;
+        }
+        #hostsi{
+            padding:40px;
+            text-align: Center;
+            background-image: url('');
+        }
+        body {
+            background-image: url('https://previews.123rf.com/images/detshana/detshana1505/detshana150500008/40554411-marble-texture-white-marble-background-Stock-Photo.jpg');
+            background: cover;
+        }

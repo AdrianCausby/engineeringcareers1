@@ -1,0 +1,9 @@
+        .container-fluid{
+            Padding: 30px;
+            background: rgba(200, 200, 200, 0.8);
+        }
+        .error
+        {
+        color: red;
+        }
+
